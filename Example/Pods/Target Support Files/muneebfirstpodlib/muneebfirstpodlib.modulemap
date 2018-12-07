@@ -1,0 +1,6 @@
+framework module muneebfirstpodlib {
+  umbrella header "muneebfirstpodlib-umbrella.h"
+
+  export *
+  module * { export * }
+}

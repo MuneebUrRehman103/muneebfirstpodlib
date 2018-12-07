@@ -1,0 +1,16 @@
+PODS:
+  - muneebfirstpodlib (0.1.0)
+
+DEPENDENCIES:
+  - muneebfirstpodlib (from `../`)
+
+EXTERNAL SOURCES:
+  muneebfirstpodlib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  muneebfirstpodlib: 8d32c5672e813656ac265fb2ed99879e71835b3a
+
+PODFILE CHECKSUM: e5e52becf52e5261b1684a99ced6edbea416da33
+
+COCOAPODS: 1.5.3
