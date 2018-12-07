@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'muneebfirstpodlib'
-  s.version          = '0.2.0'
+  s.version          = '0.1.0'
   s.summary          = 'I am an iOS developer here named Muneeb Ur Rehman and am making this pod lib to help different developers use it and with the help of it add two numbers and get thier results back :) '
 
 # This description is used to generate tags and improve search results.
